@@ -1,0 +1,11 @@
+E:\1044\3\4\terbilang\bin\Debug\terbilang.exe.config
+E:\1044\3\4\terbilang\bin\Debug\terbilang.exe
+E:\1044\3\4\terbilang\bin\Debug\terbilang.pdb
+E:\1044\3\4\terbilang\bin\Debug\ClassLibrary1.dll
+E:\1044\3\4\terbilang\bin\Debug\ClassLibrary1.pdb
+E:\1044\3\4\terbilang\obj\Debug\terbilang.csprojResolveAssemblyReference.cache
+E:\1044\3\4\terbilang\obj\Debug\terbilang.Form1.resources
+E:\1044\3\4\terbilang\obj\Debug\terbilang.Properties.Resources.resources
+E:\1044\3\4\terbilang\obj\Debug\terbilang.csproj.GenerateResource.Cache
+E:\1044\3\4\terbilang\obj\Debug\terbilang.exe
+E:\1044\3\4\terbilang\obj\Debug\terbilang.pdb
